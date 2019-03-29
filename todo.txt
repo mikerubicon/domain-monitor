@@ -1,0 +1,1 @@
+- dodac sprawdzanie dostepnosci polaczenia internetowego
